@@ -139,7 +139,45 @@ Configurarem **dos entorns diferenciats** utilitzant **màquines virtuals**.
 - Configuració de permisos de lectura i escriptura
 - Anàlisi de com les dades viatgen **en clar** (sense xifrar)
 
+#### 🔹 Activitat B – Servidor SFTP (Secure FTP)
+- Implementació de la transferència de fitxers sobre **SSH**
+- Configuració d’usuaris
+- Engabiament d’usuaris per evitar fuites de seguretat
+- Comparació directa amb FTP tradicional
+
+> ⚠️ **Nota important**  
+> Com a administradors, la seguretat **no és una opció, és una obligació**.  
+> Entendre la diferència entre FTP i SFTP és vital per al vostre futur professional.
 
 
+
+## 📝 Sistema d’Avaluació
+
+Per superar aquesta formació, haureu de demostrar la vostra competència en **dos formats**:
+
+### 📄 Prova Escrita (40%)
+- Protocols
+- Ports
+- Modes de connexió
+- Conceptes teòrics de seguretat
+
+### 🛠️ Examen Pràctic – Repte de configuració cronometrat (60%)
+- Desplegament d’un servidor **FTP**
+- Desplegament d’un servidor **SFTP**
+- Creació i configuració d’usuaris amb permisos específics
+- Verificació de la connexió des d’un client extern
+
+
+
+## 🚀 Preparació
+
+Prepareu les vostres **màquines virtuals**.  
+**Comencem a transferir dades!**
+
+
+
+## 📚 Materials i enllaços de suport
+
+- Materials de l’assignatura: **Moodle – Serveis de Xarxa**
 
 
