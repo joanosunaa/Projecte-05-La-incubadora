@@ -1,3 +1,14 @@
+## 🧩 Introducció a la tasca
+
+En la vostra experiència a **EverPia** heu configurat serveis fonamentals com **DHCP**, **DNS** i la **connexió i administració remota dels equips**.
+
+Ara que comenceu el vostre camí en solitari, necessiteu **ampliar coneixements** i consolidar les bases que tot professional IT ha de dominar.
+
+Tot i que serveis de **cloud** com *Dropbox*, *Google Drive* o altres plataformes similars són, avui dia, una de les formes més habituals de compartir i descarregar arxius, és imprescindible entendre i dominar els **protocols fonamentals de transferència de fitxers**.
+
+Per aquest motiu, us inscriviu a una **formació especialitzada** amb l’objectiu de convertir-vos en **experts en protocols de transferència**, adquirint coneixements pràctics i aplicables a entorns professionals reals.
+
+
 ## 🎯 Objectius de la formació
 
 En acabar aquesta formació, haureu de ser capaços de respondre a aquestes preguntes **amb fets i configuracions reals**:
