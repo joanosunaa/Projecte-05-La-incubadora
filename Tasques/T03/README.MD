@@ -180,5 +180,5 @@ Prepareu les vostres **màquines virtuals**.
 
 - Materials de l’assignatura: **Moodle – Serveis de Xarxa**
 
-[Ir a la solución](/solucio.md)
+[Ir a la solución](solucio.md)
 
