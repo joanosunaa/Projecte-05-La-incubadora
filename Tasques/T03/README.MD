@@ -126,7 +126,6 @@ Estudi dels protocols **FTP** i **SFTP**, parant especial atenció a:
 - Aspectes clau de **seguretat** en la transferència de fitxers
 
 
-
 ### 2️⃣ Laboratori Pràctic – *The "Real World"*
 
 Posarem les mans al teclat.  
@@ -150,7 +149,6 @@ Configurarem **dos entorns diferenciats** utilitzant **màquines virtuals**.
 > Entendre la diferència entre FTP i SFTP és vital per al vostre futur professional.
 
 
-
 ## 📝 Sistema d’Avaluació
 
 Per superar aquesta formació, haureu de demostrar la vostra competència en **dos formats**:
@@ -168,12 +166,10 @@ Per superar aquesta formació, haureu de demostrar la vostra competència en **d
 - Verificació de la connexió des d’un client extern
 
 
-
 ## 🚀 Preparació
 
 Prepareu les vostres **màquines virtuals**.  
 **Comencem a transferir dades!**
-
 
 
 ## 📚 Materials i enllaços de suport
