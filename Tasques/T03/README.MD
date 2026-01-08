@@ -109,5 +109,37 @@ A més de FTP i SFTP, existeixen altres mètodes:
 - Automatització
 - Entorn de xarxa
 
+## 🗺️ Pla de Treball: Què farem?
+
+Aquesta formació es dividirà en **dues parts clarament diferenciades**:  
+la **fonamentació teòrica** i la **implementació real**.
+
+
+
+### 1️⃣ Fonaments Teòrics i Seguretat
+
+Estudi dels protocols **FTP** i **SFTP**, parant especial atenció a:
+
+- Funcionament general dels protocols
+- Diferències entre **mode actiu** i **mode passiu** en FTP
+- **Engabiament (chroot)** d’usuaris
+- Aspectes clau de **seguretat** en la transferència de fitxers
+
+
+
+### 2️⃣ Laboratori Pràctic – *The "Real World"*
+
+Posarem les mans al teclat.  
+Configurarem **dos entorns diferenciats** utilitzant **màquines virtuals**.
+
+#### 🔹 Activitat A – Servidor FTP
+- Configuració d’un servidor FTP estàndard
+- Creació d’usuaris
+- Engabiament (chroot)
+- Configuració de permisos de lectura i escriptura
+- Anàlisi de com les dades viatgen **en clar** (sense xifrar)
+
+
+
 
 
